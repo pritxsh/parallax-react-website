@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/parallax-react-website/static/css/main.5886c7cd.css",
+    "main.js": "/parallax-react-website/static/js/main.ed53248e.js",
+    "static/media/spacecraft.jpg": "/parallax-react-website/static/media/spacecraft.d9ab3f8eeb3bec0cf9ff.jpg",
+    "static/media/nasa.jpg": "/parallax-react-website/static/media/nasa.2fc1288d5a6c35a20a66.jpg",
+    "static/media/spacelight.jpg": "/parallax-react-website/static/media/spacelight.f661af584d19e475cc6a.jpg",
+    "index.html": "/parallax-react-website/index.html",
+    "main.5886c7cd.css.map": "/parallax-react-website/static/css/main.5886c7cd.css.map",
+    "main.ed53248e.js.map": "/parallax-react-website/static/js/main.ed53248e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5886c7cd.css",
+    "static/js/main.ed53248e.js"
+  ]
+}
